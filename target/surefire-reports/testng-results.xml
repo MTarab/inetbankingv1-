@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="12794" started-at="2022-10-16T03:42:02 CDT" finished-at="2022-10-16T03:42:15 CDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="12794" started-at="2022-10-16T03:42:02 CDT" finished-at="2022-10-16T03:42:15 CDT">
+      <class name="com.inteBanking.testCases.TC_LoginTest_001">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.inteBanking.testCases.TC_LoginTest_001@3b088d51]" name="setup" is-config="true" duration-ms="6706" started-at="2022-10-16T03:42:02 CDT" finished-at="2022-10-16T03:42:09 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyLogin()[pri:0, instance:com.inteBanking.testCases.TC_LoginTest_001@3b088d51]" name="VerifyLogin" duration-ms="4770" started-at="2022-10-16T03:42:09 CDT" finished-at="2022-10-16T03:42:13 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.inteBanking.testCases.TC_LoginTest_001@3b088d51]" name="tearDown" is-config="true" duration-ms="1256" started-at="2022-10-16T03:42:13 CDT" finished-at="2022-10-16T03:42:15 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.inteBanking.testCases.TC_LoginTest_001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

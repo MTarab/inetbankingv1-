@@ -1,0 +1,5 @@
+com\inetBanking\pageObject\LoginPage.class
+com\inteBanking\testCases\TC_LoginTest_001.class
+com\inetBanking\Utilities\ReadConfig.class
+com\inteBanking\testCases\TC_LoginDDT_002.class
+com\inteBanking\testCases\Baseclass.class
